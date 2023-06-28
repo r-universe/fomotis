@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "cyanoFilter"]
 	path = cyanoFilter
 	url = https://github.com/fomotis/cyanofilter
-	shallow = true
-	registered = true
